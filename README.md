@@ -1,1 +1,2 @@
+License: ISC
 Project started
